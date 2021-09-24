@@ -10,3 +10,5 @@
 	- video demo ada di folder terkait
 3. [Waktu Luang Dosen dan Ketersediaan Ruang](https://github.com/galihboy/vb6-mini-projects/tree/main/waktu_luang_dosen) (2016)
 	- aplikasi ini dibuat untuk mengelola waktu luang dosen dan ketersediaan ruang kosong yang digunakan untuk menyesuaikan jadwal pelaksanaan seminar/sidang skripsi
+4. [Deret Prima](https://github.com/galihboy/vb6-mini-projects/tree/main/Deret_Prima) (2009)
+	- aplikasi untuk menampilkan deret bilangan prima
