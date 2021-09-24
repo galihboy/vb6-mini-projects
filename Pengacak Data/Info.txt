@@ -1,0 +1,23 @@
+Aplikasi Pengacak Data
+
+----------------------------
+Developed by Galih Hermawan
+Website: http://galih.eu
+@ Sabtu, 3 Agustus 2013
+----------------------------
+
+Aplikasi ini dapat digunakan untuk mensimulasikan bagaimana cara mengacak sekumpulan data.
+Fitur utama ada dua, yaitu:
+1. Mengacak data secara keseluruhan
+2. Mengacak data langkah per langkah
+
+Pertama-tama pengguna harus memasukkan contoh data acak, pisahkan menggunakan spasi. Atau klik contoh.
+Berdasarkan fitur nomor 2, pengguna bisa memilih menampilkan datanya saja, indeks yang diacu saja, atau kedua-duanya.
+
+Untuk keluar program, pengguna dapat mengklik tombol tutup.
+
+Mudah-mudahan Allaah ta'ala beri manfaat.
+
+Terima kasih.
+
+:)
