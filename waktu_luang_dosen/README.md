@@ -16,6 +16,6 @@ Jika pada opsi (combobox) di bawah dipilih, maka akan memunculkan nama dosen ata
 2. ruang.ini -> menyimpan data ruang
 3. pesan.txt -> menyimpan data pesan
 
-Screnshot.
+Screenshot.
 
 ![Alt Text](/waktu_luang_dosen/screenshot.jpg)
