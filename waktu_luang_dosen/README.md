@@ -1,4 +1,4 @@
-## Aplikasi pencarian file.
+## Aplikasi waktu luang dosen.
 ###### Developed by [Galih Hermawan](https://galih.eu).
 ---
 
