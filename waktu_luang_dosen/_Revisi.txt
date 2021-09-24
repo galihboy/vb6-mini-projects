@@ -1,0 +1,12 @@
+v6. 25-11-2016
++ Pengelolaan ketersediaan ruang
+
+v5.
++ Catatan dosen
+
+v4. 14-11-2016
++ Tambah Ubah data dosen
+# Perbaiki auto click pada dosen setelah ditambah dan diupdate
+
+v3
++ Hapus data dosen

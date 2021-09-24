@@ -1,0 +1,8 @@
+# Catatan dosen - jadwal seminar skripsi #
+# format: - > status pesan = 0: sudah dieksekusi; 1: belum dieksekusi atau perlu dilihat terus @ nama dosen @ isi pesan @ timestamp (otomatis)
+# START PESAN #
+->1@GALIH@Mohon tidak dijadwalkan pada hari Selasa, 22-11-2016 dan Rabu, 23-11-2016@20219253058
+->1@JOHN DOE@Untuk seminar setiap hari Sabtu pukul 8.00 s/d 10.30, mohon konfirmasi dulu@20219253116
+->0@galih@Testing pesan non aktif@20161119080810
+->1@MIKE@Contoh pesan@20219253133
+
