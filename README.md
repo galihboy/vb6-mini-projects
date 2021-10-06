@@ -1,5 +1,5 @@
 ## Koleksi proyek kecil (campuran) VB6.
-###### Developed by [Galih Hermawan](https://galih.eu).
+###### Developed by [Galih Hermawan](https://galih.eu) | [Medium Blog](https://masgalih.medium.com/).
 ---
 
 1. [Pengacak Data](https://github.com/galihboy/vb6-mini-projects/tree/main/Pengacak%20Data) (2013)
